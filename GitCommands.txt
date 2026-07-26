@@ -1,0 +1,10 @@
+git status : Denotes the status of the repo
+git branch : Denotes the current branch of the repo
+git remote : Local git repo
+git branch -M main : Renmae my current branch name to main - Local repo should match the remote repo.
+git remote add origin gitRepo : Adding the remote repo to the local repo with the nickname "origin"
+commit : This is the save point
+git log --oneline : Looks for the history of the git
+c57aaff - Unique identifier of commit msg
+(HEAD -> main) - Pointer to Currently working on location  - The main branch Currently points to the commit c57aaff
+initial commit - Simple commit message.
